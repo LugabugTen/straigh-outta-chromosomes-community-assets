@@ -8,5 +8,7 @@ Right now, things like sprites and graphic design aren't of importance.
 ***
 
 Discord: https://discord.gg/bpF782r
+
 Website: https://sheitofu.github.io/straightouttachromosomes/
+
 Gamejolt: http://gamejolt.com/games/straight-outta-chromosomes/247615
