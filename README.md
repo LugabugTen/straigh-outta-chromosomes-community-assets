@@ -6,6 +6,7 @@ At the moment, I am accepting lots of models, if you happen to be great at model
 Right now, things like sprites and graphic design aren't of importance.
 
 ***
+#important links
 
 Discord: https://discord.gg/bpF782r
 
